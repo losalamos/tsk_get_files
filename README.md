@@ -1,6 +1,4 @@
-tsk_get_files
-
-License
+##License
 
 Los Alamos National Security, LLC owns the copyright to "tsk_get_files". The license for the software is BSD with standard clauses regarding modifications and redistribution.
 
